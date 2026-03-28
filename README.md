@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Manasmita 👋  
 
-<!--
-**ManasmitaPanda23/ManasmitaPanda23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Senior Backend Engineer with 7+ years of experience  
 
-Here are some ideas to get you started:
+## 💼 What I Do
+- Build scalable backend systems  
+- Design REST APIs & microservices  
+- Optimize performance & fix production issues  
+- Work with AWS cloud  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Java | Spring Boot | Microservices | AWS | SQL  
+
+## 🌱 Currently Exploring
+- System Design  
+- Distributed Systems  
+- Generative AI  
+
+## 🏆 Achievements
+- ⭐ 2× Star Performer at NTT DATA  
+- 👩‍💻 Team Lead (7 members)  
+- 📜 ITIL + GenAI Certified  
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/manasmita-panda
